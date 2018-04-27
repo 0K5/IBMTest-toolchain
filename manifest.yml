@@ -1,0 +1,5 @@
+applications:
+- name: stoic-stonebraker
+  memory: 128M
+  host: stoic-stonebraker
+  buildpack: staticfile_buildpack
